@@ -1,0 +1,197 @@
+"flagCode","country","GlobalNorthCountriesPartOfGlobalNorth","HumanDevelopmentIndex_2023"
+"US","United States","Yes",0.938
+"RU","Russia","Yes",0.832
+"MX","Mexico","Yes",0.789
+"JP","Japan","Yes",0.925
+"TR","Turkey","Yes",0.853
+"DE","Germany","Yes",0.959
+"GB","United Kingdom","Yes",0.946
+"FR","France","Yes",0.92
+"IT","Italy","Yes",0.915
+"KR","South Korea","Yes",0.937
+"ES","Spain","Yes",0.918
+"CA","Canada","Yes",0.939
+"UA","Ukraine","Yes",0.779
+"PL","Poland","Yes",0.906
+"UZ","Uzbekistan","Yes",0.74
+"AU","Australia","Yes",0.958
+"KZ","Kazakhstan","Yes",0.837
+"RO","Romania","Yes",0.845
+"NL","Netherlands","Yes",0.955
+"BE","Belgium","Yes",0.951
+"SE","Sweden","Yes",0.959
+"CZ","Czechia","Yes",0.915
+"AZ","Azerbaijan","Yes",0.789
+"PT","Portugal","Yes",0.89
+"GR","Greece","Yes",0.908
+"IL","Israel","Yes",0.919
+"HU","Hungary","Yes",0.87
+"AT","Austria","Yes",0.93
+"CH","Switzerland","Yes",0.97
+"BY","Belarus","Yes",0.824
+"KG","Kyrgyzstan","Yes",0.72
+"BG","Bulgaria","Yes",0.845
+"RS","Serbia","Yes",0.833
+"DK","Denmark","Yes",0.962
+"NO","Norway","Yes",0.97
+"FI","Finland","Yes",0.948
+"SK","Slovakia","Yes",0.88
+"IE","Ireland","Yes",0.949
+"NZ","New Zealand","Yes",0.938
+"HR","Croatia","Yes",0.889
+"GE","Georgia","Yes",0.844
+"MD","Moldova","Yes",0.785
+"AM","Armenia","Yes",0.811
+"LT","Lithuania","Yes",0.895
+"AL","Albania","Yes",0.81
+"SI","Slovenia","Yes",0.931
+"LV","Latvia","Yes",0.889
+"MK","North Macedonia","Yes",0.815
+"CY","Cyprus","Yes",0.913
+"EE","Estonia","Yes",0.905
+"LU","Luxembourg","Yes",0.922
+"ME","Montenegro","Yes",0.862
+"MT","Malta","Yes",0.924
+"IS","Iceland","Yes",0.972
+"AD","Andorra","Yes",0.913
+"LI","Liechtenstein","Yes",0.938
+"MC","Monaco","Yes",
+"SM","San Marino","Yes",0.915
+"PW","Palau","Yes",0.786
+"TV","Tuvalu","Yes",0.689
+"VA","Vatican City","Yes",
+"IN","India","No",0.685
+"CN","China","No",0.797
+"ID","Indonesia","No",0.728
+"PK","Pakistan","No",0.544
+"NG","Nigeria","No",0.56
+"BR","Brazil","No",0.786
+"BD","Bangladesh","No",0.685
+"ET","Ethiopia","No",0.497
+"EG","Egypt","No",0.754
+"PH","Philippines","No",0.72
+"CD","DR Congo","No",0.522
+"VN","Vietnam","No",0.766
+"IR","Iran","No",0.799
+"TZ","Tanzania","No",0.555
+"TH","Thailand","No",0.798
+"ZA","South Africa","No",0.741
+"KE","Kenya","No",0.628
+"MM","Myanmar","No",0.609
+"CO","Colombia","No",0.788
+"SD","Sudan","No",0.511
+"UG","Uganda","No",0.582
+"DZ","Algeria","No",0.763
+"IQ","Iraq","No",0.695
+"AR","Argentina","No",0.865
+"AF","Afghanistan","No",0.496
+"YE","Yemen","No",0.47
+"AO","Angola","No",0.616
+"MA","Morocco","No",0.71
+"MZ","Mozambique","No",0.493
+"MY","Malaysia","No",0.819
+"GH","Ghana","No",0.628
+"SA","Saudi Arabia","No",0.9
+"PE","Peru","No",0.794
+"MG","Madagascar","No",0.487
+"CI","Ivory Coast","No",0.582
+"CM","Cameroon","No",0.588
+"NP","Nepal","No",0.622
+"NE","Niger","No",0.419
+"VE","Venezuela","No",0.709
+"KP","North Korea","No",
+"SY","Syria","No",0.564
+"ML","Mali","No",0.419
+"BF","Burkina Faso","No",0.459
+"LK","Sri Lanka","No",0.776
+"MW","Malawi","No",0.517
+"ZM","Zambia","No",0.595
+"TD","Chad","No",0.416
+"SO","Somalia","No",0.404
+"CL","Chile","No",0.878
+"SN","Senegal","No",0.53
+"GT","Guatemala","No",0.662
+"EC","Ecuador","No",0.777
+"KH","Cambodia","No",0.606
+"ZW","Zimbabwe","No",0.598
+"GN","Guinea","No",0.5
+"BJ","Benin","No",0.515
+"RW","Rwanda","No",0.578
+"BI","Burundi","No",0.439
+"BO","Bolivia","No",0.733
+"SS","South Sudan","No",0.388
+"TN","Tunisia","No",0.746
+"HT","Haiti","No",0.554
+"DO","Dominican Republic","No",0.776
+"JO","Jordan","No",0.754
+"AE","United Arab Emirates","No",0.94
+"HN","Honduras","No",0.645
+"TJ","Tajikistan","No",0.691
+"PG","Papua New Guinea","No",0.576
+"CU","Cuba","No",0.762
+"TG","Togo","No",0.571
+"SL","Sierra Leone","No",0.467
+"LA","Laos","No",0.617
+"TM","Turkmenistan","No",0.764
+"LY","Libya","No",0.721
+"NI","Nicaragua","No",0.706
+"PY","Paraguay","No",0.756
+"CG","Republic of the Congo","No",0.649
+"SV","El Salvador","No",0.678
+"SG","Singapore","No",0.946
+"LB","Lebanon","No",0.752
+"LR","Liberia","No",0.51
+"CF","Central African Republic","No",0.414
+"PS","Palestine","No",0.674
+"OM","Oman","No",0.858
+"MR","Mauritania","No",0.563
+"CR","Costa Rica","No",0.833
+"KW","Kuwait","No",0.852
+"PA","Panama","No",0.839
+"ER","Eritrea","No",0.503
+"MN","Mongolia","No",0.747
+"UY","Uruguay","No",0.862
+"QA","Qatar","No",0.886
+"NA","Namibia","No",0.665
+"BA","Bosnia and Herzegovina","No",0.804
+"GM","Gambia","No",0.524
+"JM","Jamaica","No",0.72
+"GA","Gabon","No",0.733
+"BW","Botswana","No",0.731
+"LS","Lesotho","No",0.55
+"GW","Guinea-Bissau","No",0.514
+"GQ","Equatorial Guinea","No",0.674
+"BH","Bahrain","No",0.899
+"TT","Trinidad and Tobago","No",0.807
+"TL","Timor-Leste","No",0.634
+"SZ","Eswatini","No",0.695
+"MU","Mauritius","No",0.806
+"DJ","Djibouti","No",0.513
+"FJ","Fiji","No",0.731
+"KM","Comoros","No",0.603
+"SB","Solomon Islands","No",0.584
+"GY","Guyana","No",0.776
+"BT","Bhutan","No",0.698
+"SR","Suriname","No",0.722
+"MV","Maldives","No",0.766
+"CV","Cape Verde","No",0.668
+"BN","Brunei","No",0.837
+"BZ","Belize","No",0.721
+"BS","Bahamas","No",0.82
+"VU","Vanuatu","No",0.621
+"BB","Barbados","No",0.811
+"ST","Sao Tome and Principe","No",0.637
+"WS","Samoa","No",0.708
+"LC","Saint Lucia","No",0.748
+"KI","Kiribati","No",0.644
+"SC","Seychelles","No",0.848
+"GD","Grenada","No",0.791
+"FM","Micronesia","No",0.615
+"TO","Tonga","No",0.769
+"VC","Saint Vincent and the Grenadines","No",0.798
+"AG","Antigua and Barbuda","No",0.851
+"DM","Dominica","No",0.761
+"KN","Saint Kitts and Nevis","No",0.84
+"MH","Marshall Islands","No",0.733
+"NR","Nauru","No",0.703
+"HK","Hong Kong",,0.955
