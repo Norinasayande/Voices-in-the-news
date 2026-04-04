@@ -1,0 +1,167 @@
+iso2,country,global_north_or_south,trade_value,HDI
+AF,Afghanistan,Global South,571404967.0,0.496
+AL,Albania,Global North,1929657032.0,0.797
+DZ,Algeria,Global South,34795951491.0,0.737
+AD,Andorra,Global North,89501935.162,0.869
+AO,Angola,Global South,33924937478.31,0.603
+AG,Antigua and Barbuda,Global South,26045541.0,0.839
+AR,Argentina,Global South,56783952503.68,0.859
+AM,Armenia,Global South,1482667349.0,0.777
+AU,Australia,Global North,187792151470.0,0.938
+AT,Austria,Global North,145275530315.015,0.919
+AZ,Azerbaijan,Global South,12646293676.79,0.771
+BS,Bahamas,Global South,442781375.0,0.807
+BH,Bahrain,Global South,13882170668.552,0.868
+BD,Bangladesh,Global South,31734162419.0,0.621
+BB,Barbados,Global South,482751934.0,0.8
+BY,Belarus,Global North,26660394600.0,0.825
+BE,Belgium,Global North,253410705992.653,0.933
+BZ,Belize,Global South,313895185.0,0.721
+BJ,Benin,Global South,625002384.466,0.511
+BO,Bolivia,Global South,8923115382.86,0.704
+BA,Bosnia and Herzegovina,Global North,5099185764.0,0.769
+BW,Botswana,Global South,6329746618.454,0.69
+BR,Brazil,Global South,186774916313.0,0.764
+BN,Brunei,Global South,6352662492.0,0.839
+BG,Bulgaria,Global North,25778745945.0,0.824
+BF,Burkina Faso,Global South,2216983364.4,0.419
+BI,Burundi,Global South,113790703.0,0.432
+KH,Cambodia,Global South,8542433639.0,0.562
+CM,Cameroon,Global South,4052643290.0,0.575
+CA,Canada,Global North,408697323603.511,0.932
+CV,Cape Verde,Global South,66829277.226,0.658
+CF,Central African Republic,Global South,96853681.0,0.377
+CL,Chile,Global South,62118220376.333,0.855
+CN,China,Global South,2273468224113.0,0.75
+CO,Colombia,Global South,35690766593.0,0.767
+KM,Comoros,Global South,16007463.281,0.565
+CR,Costa Rica,Global South,9578337782.0,0.803
+HR,Croatia,Global North,12843529322.0,0.852
+CY,Cyprus,Global North,3358859967.648,0.882
+CZ,Czechia,Global North,157194122601.0,0.9
+CD,DR Congo,Global South,8685052222.865,0.477
+DK,Denmark,Global North,94618816682.0,0.943
+DO,Dominican Republic,Global South,9388736572.2,0.747
+EC,Ecuador,Global South,18330607692.0,0.764
+EG,Egypt,Global South,21858773824.971,0.706
+SV,El Salvador,Global South,5509047690.07,0.667
+EE,Estonia,Global North,13907609950.0,0.888
+SZ,Eswatini,Global South,1820498383.51,0.607
+ET,Ethiopia,Global South,2023552443.102,0.456
+FJ,Fiji,Global South,981240570.632,0.715
+FI,Finland,Global North,59682311206.0,0.938
+FR,France,Global North,493941214224.0,0.901
+GA,Gabon,Global South,10653514596.824,0.72
+GM,Gambia,Global South,83324015.231,0.482
+GE,Georgia,Global South,2204174681.43,0.807
+DE,Germany,Global North,1328500248528.884,0.948
+GH,Ghana,Global South,13755564937.275,0.588
+GR,Greece,Global North,28289236579.0,0.888
+GD,Grenada,Global South,33319412.606,0.782
+GT,Guatemala,Global South,10677394462.0,0.638
+GN,Guinea,Global South,1573675202.0,0.465
+GW,Guinea-Bissau,Global South,327223975.778,0.481
+GY,Guyana,Global South,1169367266.672,0.683
+HT,Haiti,Global South,216005100.539,0.552
+HN,Honduras,Global South,4201473381.0,0.61
+HK,Hong Kong,Global South,510552778635.197,0.937
+HU,Hungary,Global North,100296847323.0,0.847
+IS,Iceland,Global North,4721984946.0,0.956
+IN,India,Global South,264381003631.0,0.633
+ID,Indonesia,Global South,150366281305.0,0.701
+IR,Iran,Global South,60040642108.7,0.788
+IQ,Iraq,Global South,49402582280.0,0.675
+IE,Ireland,Global North,124717363772.617,0.931
+IL,Israel,Global North,64062217000.0,0.902
+IT,Italy,Global North,456988625514.476,0.889
+CI,Ivory Coast,Global South,12559700112.812,0.519
+JM,Jamaica,Global South,1262584854.0,0.713
+JP,Japan,Global North,624873508116.0,0.917
+JO,Jordan,Global South,7832976598.0,0.743
+KZ,Kazakhstan,Global South,45954426051.0,0.819
+KE,Kenya,Global South,5906821405.92,0.583
+KI,Kiribati,Global South,10008709.438,0.623
+KW,Kuwait,Global South,54120957085.627,0.832
+KG,Kyrgyzstan,Global South,1441467621.0,0.695
+LA,Laos,Global South,2985095357.0,0.604
+LV,Latvia,Global North,11425789786.287,0.859
+LB,Lebanon,Global South,2953388639.63,0.763
+LS,Lesotho,Global South,605922653.454,0.517
+LT,Lithuania,Global North,25411022244.0,0.869
+LU,Luxembourg,Global North,12625702669.0,0.913
+MG,Madagascar,Global South,2133403308.279,0.501
+MW,Malawi,Global South,1071727905.286,0.504
+MY,Malaysia,Global South,200210871947.0,0.8
+MV,Maldives,Global South,144172352.0,0.725
+MT,Malta,Global North,3915447978.0,0.892
+MR,Mauritania,Global South,1831727139.2,0.551
+MU,Mauritius,Global South,2481092714.0,0.792
+MX,Mexico,Global South,380556088682.0,0.773
+MD,Moldova,Global North,1966837314.0,0.759
+MN,Mongolia,Global South,4669280457.0,0.753
+ME,Montenegro,Global North,353079512.0,0.839
+MA,Morocco,Global South,22336935399.466,0.659
+MZ,Mozambique,Global South,3230743671.51,0.457
+MM,Myanmar,Global South,11431792163.645,0.566
+NA,Namibia,Global South,4628291751.0,0.63
+NP,Nepal,Global South,660181989.0,0.575
+NL,Netherlands,Global North,464697216473.282,0.94
+NZ,New Zealand,Global North,34357335123.238,0.934
+NI,Nicaragua,Global South,4667365609.0,0.679
+NE,Niger,Global South,789770313.0,0.374
+NG,Nigeria,Global South,48433351369.653,0.53
+MK,North Macedonia,Global North,4530076212.74,0.795
+NO,Norway,Global North,103785482320.364,0.959
+OM,Oman,Global South,35686298632.186,0.838
+PK,Pakistan,Global South,22089018057.0,0.527
+PW,Palau,Global South,6384671.0,0.802
+PS,Palestine,Global South,957810868.0,0.712
+PA,Panama,Global South,12043377104.0,0.803
+PY,Paraguay,Global South,8327546291.0,0.737
+PE,Peru,Global South,37278004119.33,0.768
+PH,Philippines,Global South,58648083080.0,0.69
+PL,Poland,Global North,194461157270.0,0.879
+PT,Portugal,Global North,55045025717.804,0.857
+QA,Qatar,Global South,77090262720.063,0.86
+CG,Republic of the Congo,Global South,8622950445.594,0.643
+RO,Romania,Global North,60605047667.0,0.823
+RU,Russia,Global North,343907651828.0,0.833
+RW,Rwanda,Global South,1188417523.5640001,0.525
+KN,Saint Kitts and Nevis,Global South,31700496.629,0.83
+LC,Saint Lucia,Global South,180596808.0,0.757
+VC,Saint Vincent and the Grenadines,Global South,46868923.738,0.765
+WS,Samoa,Global South,58927552.0,0.708
+ST,Sao Tome and Principe,Global South,9223182.0,0.608
+SA,Saudi Arabia,Global South,203688802561.012,0.851
+SN,Senegal,Global South,2611671966.0,0.509
+RS,Serbia,Global North,13378933798.0,0.802
+SC,Seychelles,Global South,475740784.644,0.819
+SL,Sierra Leone,Global South,93257547.0,0.432
+SG,Singapore,Global South,357941228869.167,0.935
+SK,Slovakia,Global North,75010058852.796,0.861
+SI,Slovenia,Global North,26586979271.0,0.909
+ZA,South Africa,Global South,80035689874.235,0.722
+KR,South Korea,Global North,526753006361.0,0.914
+ES,Spain,Global North,276958511714.4,0.895
+LK,Sri Lanka,Global South,10439729662.0,0.769
+SD,Sudan,Global South,5587516915.0,0.498
+SR,Suriname,Global South,1814316671.741,0.718
+SE,Sweden,Global North,140006470767.691,0.945
+CH,Switzerland,Global North,289629055115.219,0.957
+TJ,Tajikistan,Global South,897604861.0,0.658
+TZ,Tanzania,Global South,5854230521.0,0.52
+TH,Thailand,Global South,214309375775.35,0.788
+TG,Togo,Global South,792823173.978,0.523
+TT,Trinidad and Tobago,Global South,10747779549.013,0.808
+TN,Tunisia,Global South,14073487589.0,0.728
+TR,Turkey,Global South,150982113766.0,0.821
+UG,Uganda,Global South,2267008685.0,0.547
+UA,Ukraine,Global North,38127039558.0,0.778
+AE,United Arab Emirates,Global South,300478647816.83,0.857
+GB,United Kingdom,Global North,466295682754.0,0.931
+US,United States,Global North,1501845863839.0,0.928
+UY,Uruguay,Global South,7669514564.0,0.818
+VN,Vietnam,Global South,162016742480.0,0.717
+YE,Yemen,Global South,509857735.0,0.475
+ZM,Zambia,Global South,6565142511.608,0.565
+ZW,Zimbabwe,Global South,3410659130.59,0.567
